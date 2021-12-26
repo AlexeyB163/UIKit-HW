@@ -120,7 +120,7 @@
                         <outlet property="greenSlider" destination="ydN-lS-O0H" id="s42-Dx-Tz1"/>
                         <outlet property="redLabel" destination="AtH-K6-JeQ" id="LZv-Fg-UuL"/>
                         <outlet property="redSlider" destination="dMH-jC-Fet" id="7qF-Dc-OTJ"/>
-                        <outlet property="viewColor" destination="gCY-BY-jkk" id="GLw-Mw-rY3"/>
+                        <outlet property="viewLabel" destination="gCY-BY-jkk" id="Zzx-g3-nwK"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
